@@ -17,6 +17,8 @@
 
 芯片手册查询
 - [半导小芯](http://www.semiee.com)
+- [陶瓷电容 ESR 等参数查询网站](https://ds.murata.co.jp/simsurfing/mlcc.html?lcid=zh-cn)
+- [铝电解电容寿命在线计算公式](https://www.cn-nichicon.com/products/lifetime/)
 
 其他小软件和小工具
 
